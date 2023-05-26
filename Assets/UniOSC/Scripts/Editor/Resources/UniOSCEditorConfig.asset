@@ -1,0 +1,108 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 961104b366b3ea3438284ace89d20242, type: 3}
+  m_Name: UniOSCEditorConfig
+  m_EditorClassIdentifier: 
+  selectedMappingFileObjIndex: 8
+  selectedSessionFileObjIndex: 0
+  configTraceScrollpos: {x: 0, y: 0}
+  isOSCTracing: 1
+  isOSCLearning: 0
+  isEditorEnabled: 1
+  isLastMessageTracing: 0
+  mySkin: {fileID: 0}
+  learnStyle:
+    m_Name: 
+    m_Normal:
+      m_Background: {fileID: 2800000, guid: f1ed84d0bc146974cb640799ad2714d9, type: 3}
+      m_ScaledBackgrounds: []
+      m_TextColor: {r: 0, g: 0, b: 0, a: 1}
+    m_Hover:
+      m_Background: {fileID: 0}
+      m_ScaledBackgrounds: []
+      m_TextColor: {r: 0, g: 0, b: 0, a: 1}
+    m_Active:
+      m_Background: {fileID: 0}
+      m_ScaledBackgrounds: []
+      m_TextColor: {r: 0, g: 0, b: 0, a: 1}
+    m_Focused:
+      m_Background: {fileID: 0}
+      m_ScaledBackgrounds: []
+      m_TextColor: {r: 0, g: 0, b: 0, a: 1}
+    m_OnNormal:
+      m_Background: {fileID: 0}
+      m_ScaledBackgrounds: []
+      m_TextColor: {r: 0, g: 0, b: 0, a: 1}
+    m_OnHover:
+      m_Background: {fileID: 0}
+      m_ScaledBackgrounds: []
+      m_TextColor: {r: 0, g: 0, b: 0, a: 1}
+    m_OnActive:
+      m_Background: {fileID: 0}
+      m_ScaledBackgrounds: []
+      m_TextColor: {r: 0, g: 0, b: 0, a: 1}
+    m_OnFocused:
+      m_Background: {fileID: 0}
+      m_ScaledBackgrounds: []
+      m_TextColor: {r: 0, g: 0, b: 0, a: 1}
+    m_Border:
+      m_Left: 7
+      m_Right: 7
+      m_Top: 7
+      m_Bottom: 7
+    m_Margin:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    m_Padding:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    m_Overflow:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    m_Font: {fileID: 0}
+    m_FontSize: 0
+    m_FontStyle: 0
+    m_Alignment: 0
+    m_WordWrap: 0
+    m_RichText: 1
+    m_TextClipping: 0
+    m_ImagePosition: 0
+    m_ContentOffset: {x: 0, y: 0}
+    m_FixedWidth: 0
+    m_FixedHeight: 0
+    m_StretchWidth: 1
+    m_StretchHeight: 0
+  OSCMappingFileObjList:
+  - {fileID: 11400000, guid: cf9f057bf72620749b12e92d21b16948, type: 2}
+  - {fileID: 11400000, guid: eafafc11568d4494e937ea70d2dad94a, type: 2}
+  - {fileID: 11400000, guid: c8daee3f57a1c9146a7da836d7fba9aa, type: 2}
+  - {fileID: 11400000, guid: 1e5b154641c776342b5b8e96037b28b1, type: 2}
+  - {fileID: 11400000, guid: 75b5f3ee97d3a9e4f83f13a74fbb0cce, type: 2}
+  - {fileID: 11400000, guid: dabd1042f9bfc9a4d80c317c67058b53, type: 2}
+  - {fileID: 11400000, guid: 5ea487843b75686489f310e830c8488e, type: 2}
+  - {fileID: 11400000, guid: 9d0e50f40f8a44142afc7866227c0fe9, type: 2}
+  - {fileID: 11400000, guid: 974cdf33b9cd29c468a64e12451d9ff1, type: 2}
+  - {fileID: 11400000, guid: 7637d90299cee024ba1310c151605bf3, type: 2}
+  - {fileID: 11400000, guid: ed7740cc6ba5fdd4ba40397e4bb88ac1, type: 2}
+  - {fileID: 11400000, guid: 4771dcae072ef5d40bf0b39c599e89b4, type: 2}
+  - {fileID: 11400000, guid: 6c3d17860fba61c44a3197bc589bf2bf, type: 2}
+  - {fileID: 11400000, guid: ccd40fbf4ab84dd4da4675612e6500a3, type: 2}
+  - {fileID: 11400000, guid: 3821bc6162de8f34b8bc0601d606f9d3, type: 2}
+  OSCSessionFileObjList: []
+  toolbarInt: 0
+  tex_LearnFrame: {fileID: 2800000, guid: f1ed84d0bc146974cb640799ad2714d9, type: 3}
+  tex_logo: {fileID: 2800000, guid: b848a5f32db88c24babd192ec2f359c9, type: 3}

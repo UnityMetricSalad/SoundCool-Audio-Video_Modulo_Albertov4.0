@@ -1,0 +1,11 @@
+Credits:
+Group of Performing Arts and Technology
+PerformingARTech.blogs.upv.es
+Universitat Polit¨¨cnica de Val¨¨ncia (Spain)
+Supported by Daniel & Nina Carasso Foundation and C¨¢tedra Telef¨®nica UPV 
+Soundcool disclaimer at soundcool.org
+
+
+
+
+Soundcool is a collaborative system for music education and sound creation using smartphones, tablets, Kinect, MAX/MSP/Jitter and Open Sound Control.

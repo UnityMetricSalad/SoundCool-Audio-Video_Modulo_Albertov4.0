@@ -1,0 +1,2 @@
+En esta versión se ha modificado el sampler de audio añadiendo
+botones de "stop".
